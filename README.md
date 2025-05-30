@@ -49,21 +49,7 @@ pip install -r requirements.txt
 python -m etsyguard.demo
 ```
 
-## 🌟 Success Stories
 
-"Increased my shop revenue by 40% in two months!" - Sarah K.
-"Best investment for my Etsy business" - Mike R.
-"The competitor tracking is invaluable" - Emma T.
-
-## 📚 Documentation
-- [Setup Guide](docs/setup.md)
-- [Feature List](docs/features.md)
-- [FAQ](docs/faq.md)
-
-## 🤝 Support
-- Issues: [GitHub Issues](../../issues)
-- Email: support@etsyguard.ai
-- Discord: [Join Community](https://discord.gg/etsyguard)
 
 ## 📜 License
 Commercial License - Full terms provided after purchase
