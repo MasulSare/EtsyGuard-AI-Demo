@@ -1,6 +1,5 @@
 # 🚀 EtsyGuard AI - Etsy Shop Analytics & Optimization
 
-![EtsyGuard AI Dashboard](https://raw.githubusercontent.com/MasulSare/EtsyGuard-AI-Demo/main/screenshots/dashboard.jpg)
 
 ## ✨ Features
 
